@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "62962f4f0db4492a50405ecd"
+  },
+  "AccountID": "62962f3e0db4492a50405ec8",
+  "SoThe": "111111",
+  "NgayGioGiaoDich": "31/05/2022 22:07:59",
+  "SoTienGiaoDich": 25000000,
+  "SoDuCuoi": 25000000,
+  "LoaiGiaoDich": "+",
+  "NoiDung": "25000000",
+  "TrangThai": "Thành công",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296313b52d1c6e30c3ef377"
+  },
+  "AccountID": "6296312b52d1c6e30c3ef36f",
+  "SoThe": "111111",
+  "NgayGioGiaoDich": "31/05/2022 22:16:11",
+  "SoTienGiaoDich": 25000000,
+  "SoDuCuoi": 25000000,
+  "LoaiGiaoDich": "+",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296351189ee804fc3387b47"
+  },
+  "AccountID": "6296350289ee804fc3387b3f",
+  "SoThe": "111111",
+  "NgayGioGiaoDich": "31/05/2022 22:32:33",
+  "SoTienGiaoDich": 25000000,
+  "SoDuCuoi": 25000000,
+  "LoaiGiaoDich": "+",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629636ee679f21ee77eb3c40"
+  },
+  "AccountID": "629636e1679f21ee77eb3c3b",
+  "SoThe": "111111",
+  "NgayGioGiaoDich": "31/05/2022 22:40:30",
+  "SoTienGiaoDich": 20000000,
+  "SoDuCuoi": 20000000,
+  "LoaiGiaoDich": "+",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "__v": 0
+}]

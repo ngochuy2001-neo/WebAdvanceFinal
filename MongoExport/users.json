@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "629613e4703a19c39b74b6e9"
+  },
+  "roles": "admin",
+  "username": "admin",
+  "password": "$2b$10$zKizfcUhXSQvdiBTiO2L5OUBP6XZqsadVVB9Pyf0saOQs6NeR2fD6",
+  "email": "admin@gmail.com",
+  "phone": "0123456789",
+  "birthday": "01/01/1999",
+  "address": "Hồ Chí Minh",
+  "cmndfront": "",
+  "cmndback": "",
+  "fullname": "admin",
+  "countlogin": "1",
+  "status": "2",
+  "countFailed": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62963647679f21ee77eb3bfe"
+  },
+  "roles": "user",
+  "username": "8294247913",
+  "password": "$2b$10$ZVc8IAGXkUJy3CAm00fpY.ewDHsr1MMIJ.aya.daliMTQ/2rYvgR6",
+  "email": "ngochuy11010@gmail.com",
+  "phone": "0399803827",
+  "birthday": "10/01/2001",
+  "address": "19 Nguyen Huu Tho",
+  "cmndfront": "https://firebasestorage.googleapis.com/v0/b/ewallet-15217.appspot.com/o/1654011462059-carousel-1.jpg?alt=media&token=25a8f90d-7bfc-41a2-b4e5-34c990973846",
+  "cmndback": "https://firebasestorage.googleapis.com/v0/b/ewallet-15217.appspot.com/o/1654011462059-carousel-2.jpg?alt=media&token=2174c40d-2b3e-419f-b0d6-a07053b563bc",
+  "fullname": "Nguyễn Lê Ngọc Huy",
+  "countlogin": "1",
+  "status": "2",
+  "countFailed": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629636a0679f21ee77eb3c0e"
+  },
+  "roles": "user",
+  "username": "8555484808",
+  "password": "$2b$10$I9OKPLnOYVXWDdtmzsVCxej9OwBhOcc7lB.qFzL8tBxOxDziMc.GG",
+  "email": "bleach20011001@gmail.com",
+  "phone": "0986522871",
+  "birthday": "10/01/2002",
+  "address": "55 Ton Duc Thang",
+  "cmndfront": "https://firebasestorage.googleapis.com/v0/b/ewallet-15217.appspot.com/o/1654011551174-image-01.jpg?alt=media&token=7aea343c-cf1e-46b4-9290-2594014d2a21",
+  "cmndback": "https://firebasestorage.googleapis.com/v0/b/ewallet-15217.appspot.com/o/1654011551174-image-02.jpg?alt=media&token=cb55d90c-507f-44ef-973f-1ec298eac74a",
+  "fullname": "Thái Thị Thanh Nhàn",
+  "countlogin": "1",
+  "status": "2",
+  "countFailed": 3,
+  "__v": 0
+}]

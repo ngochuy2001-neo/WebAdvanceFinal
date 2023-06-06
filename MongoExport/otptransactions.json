@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6296319552d1c6e30c3ef3a2"
+  },
+  "NguoiGuiID": "6296306e52d1c6e30c3ef322",
+  "TenNguoiGui": "Nguyễn Lê Ngọc Huy",
+  "NguoiNhanID": "629630c152d1c6e30c3ef332",
+  "TenNguoiNhan": "Nguyễn Đức Anh",
+  "ViGuiID": "6296306e52d1c6e30c3ef324",
+  "ViNhanID": "629630c152d1c6e30c3ef334",
+  "SoTienGiaoDich": 500000,
+  "NoiDungChuyenTien": "",
+  "NgayGioChuyen": "31/05/2022 22:17:41",
+  "MaXacThuc": "838813",
+  "ThoiGianTaoOtp": 1654010261,
+  "TrangThai": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296374f679f21ee77eb3c6b"
+  },
+  "NguoiGuiID": "62963647679f21ee77eb3bfe",
+  "TenNguoiGui": "Nguyễn Lê Ngọc Huy",
+  "NguoiNhanID": "629636a0679f21ee77eb3c0e",
+  "TenNguoiNhan": "Thái Thị Thanh Nhàn",
+  "ViGuiID": "62963647679f21ee77eb3c00",
+  "ViNhanID": "629636a0679f21ee77eb3c10",
+  "SoTienGiaoDich": 500000,
+  "NoiDungChuyenTien": "",
+  "NgayGioChuyen": "31/05/2022 22:42:07",
+  "MaXacThuc": "931417",
+  "ThoiGianTaoOtp": 1654011727,
+  "TrangThai": "1",
+  "__v": 0
+}]

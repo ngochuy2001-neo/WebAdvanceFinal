@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "62962f8c0db4492a50405ee7"
+  },
+  "WalletTransactionID": "62962f8c0db4492a50405ee4",
+  "NhaMang": "Mobifone",
+  "MaSo": "4316971879",
+  "NgayPhatHanh": "31/05/2022",
+  "MenhGia": "10000",
+  "ThoiGian": "1654009740529",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296316652d1c6e30c3ef391"
+  },
+  "WalletTransactionID": "6296316652d1c6e30c3ef38e",
+  "NhaMang": "Viettel",
+  "MaSo": "1911574546",
+  "NgayPhatHanh": "31/05/2022",
+  "MenhGia": "20000",
+  "ThoiGian": "1654010214093",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296355989ee804fc3387b69"
+  },
+  "WalletTransactionID": "6296355989ee804fc3387b66",
+  "NhaMang": "Viettel",
+  "MaSo": "4832903914",
+  "NgayPhatHanh": "31/05/2022",
+  "MenhGia": "10000",
+  "ThoiGian": "1654011225582",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62963734679f21ee77eb3c62"
+  },
+  "WalletTransactionID": "62963734679f21ee77eb3c5f",
+  "NhaMang": "Viettel",
+  "MaSo": "4959085436",
+  "NgayPhatHanh": "31/05/2022",
+  "MenhGia": "10000",
+  "ThoiGian": "1654011700875",
+  "__v": 0
+}]

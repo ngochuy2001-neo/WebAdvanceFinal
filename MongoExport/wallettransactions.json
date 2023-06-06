@@ -1,0 +1,271 @@
+[{
+  "_id": {
+    "$oid": "62962f7f0db4492a50405edd"
+  },
+  "UserID": "62962e800db4492a50405e8e",
+  "Wallet": "62962e800db4492a50405e90",
+  "SoThe": "111111",
+  "NgayHetHan": "10/10/2022",
+  "CVV": "411",
+  "NgayGioGiaoDich": "31/05/2022 22:08:47",
+  "SoTienGiaoDich": 20000,
+  "SoDuCuoi": 20000,
+  "LoaiGiaoDich": "+",
+  "TenLoaiGiaoDich": "Nạp tiền",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654009727548",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62962f8c0db4492a50405ee4"
+  },
+  "UserID": "62962e800db4492a50405e8e",
+  "Wallet": "62962e800db4492a50405e90",
+  "SoThe": "N/A",
+  "NgayHetHan": "N/A",
+  "CVV": "N/A",
+  "NgayGioGiaoDich": "31/05/2022 22:09:00",
+  "SoTienGiaoDich": 10000,
+  "SoDuCuoi": 10000,
+  "LoaiGiaoDich": "-",
+  "TenLoaiGiaoDich": "TheDienThoai",
+  "NoiDung": "Xem chi tiết thẻ",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654009740526",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296315b52d1c6e30c3ef387"
+  },
+  "UserID": "6296306e52d1c6e30c3ef322",
+  "Wallet": "6296306e52d1c6e30c3ef324",
+  "SoThe": "111111",
+  "NgayHetHan": "10/10/2022",
+  "CVV": "411",
+  "NgayGioGiaoDich": "31/05/2022 22:16:43",
+  "SoTienGiaoDich": 2000000,
+  "SoDuCuoi": 2000000,
+  "LoaiGiaoDich": "+",
+  "TenLoaiGiaoDich": "Nạp tiền",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654010203051",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296316652d1c6e30c3ef38e"
+  },
+  "UserID": "6296306e52d1c6e30c3ef322",
+  "Wallet": "6296306e52d1c6e30c3ef324",
+  "SoThe": "N/A",
+  "NgayHetHan": "N/A",
+  "CVV": "N/A",
+  "NgayGioGiaoDich": "31/05/2022 22:16:54",
+  "SoTienGiaoDich": 20000,
+  "SoDuCuoi": 1980000,
+  "LoaiGiaoDich": "-",
+  "TenLoaiGiaoDich": "TheDienThoai",
+  "NoiDung": "Xem chi tiết thẻ",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654010214087",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296318252d1c6e30c3ef398"
+  },
+  "UserID": "6296306e52d1c6e30c3ef322",
+  "Wallet": "6296306e52d1c6e30c3ef324",
+  "SoThe": "111111",
+  "NgayHetHan": "10/10/2022",
+  "CVV": "411",
+  "NgayGioGiaoDich": "31/05/2022 22:17:22",
+  "SoTienGiaoDich": 500000,
+  "SoDuCuoi": 1455000,
+  "LoaiGiaoDich": "-",
+  "TenLoaiGiaoDich": "Rút tiền phí: 25000",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654010242541",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629631a952d1c6e30c3ef3a7"
+  },
+  "UserID": "6296306e52d1c6e30c3ef322",
+  "Wallet": "6296306e52d1c6e30c3ef324",
+  "SoThe": "N/A",
+  "NgayHetHan": "N/A",
+  "CVV": "N/A",
+  "NgayGioGiaoDich": "31/05/2022 22:18:01",
+  "SoTienGiaoDich": 500000,
+  "SoDuCuoi": 930000,
+  "LoaiGiaoDich": "-",
+  "TenLoaiGiaoDich": "Gửi tiền 500000 phí: 25000",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654010281669",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629631a952d1c6e30c3ef3ab"
+  },
+  "UserID": "629630c152d1c6e30c3ef332",
+  "Wallet": "629630c152d1c6e30c3ef334",
+  "SoThe": "N/A",
+  "NgayHetHan": "N/A",
+  "CVV": "N/A",
+  "NgayGioGiaoDich": "31/05/2022 22:18:01",
+  "SoTienGiaoDich": 500000,
+  "SoDuCuoi": 500000,
+  "LoaiGiaoDich": "-",
+  "TenLoaiGiaoDich": "Nhận tiền 500000",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654010281674",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296353c89ee804fc3387b57"
+  },
+  "UserID": "6296345b89ee804fc3387afd",
+  "Wallet": "6296345b89ee804fc3387aff",
+  "SoThe": "111111",
+  "NgayHetHan": "10/10/2022",
+  "CVV": "411",
+  "NgayGioGiaoDich": "31/05/2022 22:33:16",
+  "SoTienGiaoDich": 500000,
+  "SoDuCuoi": 500000,
+  "LoaiGiaoDich": "+",
+  "TenLoaiGiaoDich": "Nạp tiền",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654011196020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296355089ee804fc3387b5f"
+  },
+  "UserID": "6296345b89ee804fc3387afd",
+  "Wallet": "6296345b89ee804fc3387aff",
+  "SoThe": "111111",
+  "NgayHetHan": "10/10/2022",
+  "CVV": "411",
+  "NgayGioGiaoDich": "31/05/2022 22:33:36",
+  "SoTienGiaoDich": 1500000,
+  "SoDuCuoi": 2000000,
+  "LoaiGiaoDich": "+",
+  "TenLoaiGiaoDich": "Nạp tiền",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654011216861",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296355989ee804fc3387b66"
+  },
+  "UserID": "6296345b89ee804fc3387afd",
+  "Wallet": "6296345b89ee804fc3387aff",
+  "SoThe": "N/A",
+  "NgayHetHan": "N/A",
+  "CVV": "N/A",
+  "NgayGioGiaoDich": "31/05/2022 22:33:45",
+  "SoTienGiaoDich": 10000,
+  "SoDuCuoi": 1990000,
+  "LoaiGiaoDich": "-",
+  "TenLoaiGiaoDich": "TheDienThoai",
+  "NoiDung": "Xem chi tiết thẻ",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654011225578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62963717679f21ee77eb3c50"
+  },
+  "UserID": "62963647679f21ee77eb3bfe",
+  "Wallet": "62963647679f21ee77eb3c00",
+  "SoThe": "111111",
+  "NgayHetHan": "10/10/2022",
+  "CVV": "411",
+  "NgayGioGiaoDich": "31/05/2022 22:41:11",
+  "SoTienGiaoDich": 2000000,
+  "SoDuCuoi": 2000000,
+  "LoaiGiaoDich": "+",
+  "TenLoaiGiaoDich": "Nạp tiền",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654011671893",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296372b679f21ee77eb3c58"
+  },
+  "UserID": "62963647679f21ee77eb3bfe",
+  "Wallet": "62963647679f21ee77eb3c00",
+  "SoThe": "111111",
+  "NgayHetHan": "10/10/2022",
+  "CVV": "411",
+  "NgayGioGiaoDich": "31/05/2022 22:41:31",
+  "SoTienGiaoDich": 500000,
+  "SoDuCuoi": 1475000,
+  "LoaiGiaoDich": "-",
+  "TenLoaiGiaoDich": "Rút tiền phí: 25000",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654011691175",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62963734679f21ee77eb3c5f"
+  },
+  "UserID": "62963647679f21ee77eb3bfe",
+  "Wallet": "62963647679f21ee77eb3c00",
+  "SoThe": "N/A",
+  "NgayHetHan": "N/A",
+  "CVV": "N/A",
+  "NgayGioGiaoDich": "31/05/2022 22:41:40",
+  "SoTienGiaoDich": 10000,
+  "SoDuCuoi": 1465000,
+  "LoaiGiaoDich": "-",
+  "TenLoaiGiaoDich": "TheDienThoai",
+  "NoiDung": "Xem chi tiết thẻ",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654011700868",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62963761679f21ee77eb3c70"
+  },
+  "UserID": "62963647679f21ee77eb3bfe",
+  "Wallet": "62963647679f21ee77eb3c00",
+  "SoThe": "N/A",
+  "NgayHetHan": "N/A",
+  "CVV": "N/A",
+  "NgayGioGiaoDich": "31/05/2022 22:42:25",
+  "SoTienGiaoDich": 500000,
+  "SoDuCuoi": 940000,
+  "LoaiGiaoDich": "-",
+  "TenLoaiGiaoDich": "Gửi tiền 500000 phí: 25000",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654011745951",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62963761679f21ee77eb3c74"
+  },
+  "UserID": "629636a0679f21ee77eb3c0e",
+  "Wallet": "629636a0679f21ee77eb3c10",
+  "SoThe": "N/A",
+  "NgayHetHan": "N/A",
+  "CVV": "N/A",
+  "NgayGioGiaoDich": "31/05/2022 22:42:25",
+  "SoTienGiaoDich": 500000,
+  "SoDuCuoi": 500000,
+  "LoaiGiaoDich": "-",
+  "TenLoaiGiaoDich": "Nhận tiền 500000",
+  "NoiDung": "",
+  "TrangThai": "Thành công",
+  "ThoiGian": "1654011745958",
+  "__v": 0
+}]

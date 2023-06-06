@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "629613e4703a19c39b74b6eb"
+  },
+  "UserID": "629613e4703a19c39b74b6e9",
+  "NgayMo": "31/05/2022",
+  "SoDu": 0,
+  "TrangThai": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62962e800db4492a50405e90"
+  },
+  "UserID": "62962e800db4492a50405e8e",
+  "NgayMo": "31/05/2022",
+  "SoDu": 10000,
+  "TrangThai": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62962ee40db4492a50405ea0"
+  },
+  "UserID": "62962ee40db4492a50405e9e",
+  "NgayMo": "31/05/2022",
+  "SoDu": 0,
+  "TrangThai": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296306e52d1c6e30c3ef324"
+  },
+  "UserID": "6296306e52d1c6e30c3ef322",
+  "NgayMo": "31/05/2022",
+  "SoDu": 930000,
+  "TrangThai": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629630c152d1c6e30c3ef334"
+  },
+  "UserID": "629630c152d1c6e30c3ef332",
+  "NgayMo": "31/05/2022",
+  "SoDu": 500000,
+  "TrangThai": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629633ba545329fc954cd725"
+  },
+  "UserID": "629633ba545329fc954cd723",
+  "NgayMo": "31/05/2022",
+  "SoDu": 0,
+  "TrangThai": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296345b89ee804fc3387aff"
+  },
+  "UserID": "6296345b89ee804fc3387afd",
+  "NgayMo": "31/05/2022",
+  "SoDu": 1990000,
+  "TrangThai": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629634b089ee804fc3387b0f"
+  },
+  "UserID": "629634b089ee804fc3387b0d",
+  "NgayMo": "31/05/2022",
+  "SoDu": 0,
+  "TrangThai": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62963647679f21ee77eb3c00"
+  },
+  "UserID": "62963647679f21ee77eb3bfe",
+  "NgayMo": "31/05/2022",
+  "SoDu": 940000,
+  "TrangThai": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629636a0679f21ee77eb3c10"
+  },
+  "UserID": "629636a0679f21ee77eb3c0e",
+  "NgayMo": "31/05/2022",
+  "SoDu": 500000,
+  "TrangThai": "1",
+  "__v": 0
+}]
